@@ -10,8 +10,8 @@
 
 | | |
 |---|---|
-| ![Profile](media/01_profile.png) | ![Profile](media/02_profile_alt.png) |
-| ![Background shop](media/03_bg_shop.png) | ![Marriage profile](media/04_marriage.png) |
+| ![Профиль: уровень, монеты, брак, войс / Profile card](media/01_profile.png) | ![Профиль с другим фоном / Profile with another background](media/02_profile_alt.png) |
+| ![Магазин фонов профиля / Profile background shop](media/03_bg_shop.png) | ![Семейный профиль / Marriage profile](media/04_marriage.png) |
 
 ---
 
